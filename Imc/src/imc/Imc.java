@@ -19,7 +19,7 @@ public class Imc {
         p1.setPeso(225.3);
         p1.setAltura(1.88);
         
-        System.out.println(p1.chechaIMC(p1.calculaIMC()));
+        System.out.println(p1.checaIMC(p1.calculaIMC()));
     }
     
 }
